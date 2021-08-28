@@ -7,7 +7,7 @@ Las actualizaciones continuas permiten que los cambios de versiones de un aplica
 Se utilizan sondas de vivacidad para saber cuándo reiniciar un contenedor.
 
 ## Readiness Check
-“Se utilizan sondas de preparación para saber cuándo un contenedor está listo para comenzar a aceptar tráfico.
+Se utilizan sondas de preparación para saber cuándo un contenedor está listo para comenzar a aceptar tráfico.
 
 
 
