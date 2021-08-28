@@ -20,3 +20,4 @@ Se utilizan sondas de preparación para saber cuándo un contenedor está listo 
 
 ## Fuentes:
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
+https://docs.google.com/presentation/d/1bppTLitiO0QmXeWsP2ThxkRtCa8jn3jQFByHxKwReeQ/edit#slide=id.gcd4c0b9888_5_340
